@@ -29,7 +29,6 @@ My focus is on cloud architecture, platform engineering, AI-powered solutions, c
 ### AI-Powered Cloud Architectures
 
 Building intelligent cloud solutions that combine:
-
 - Cloud-native services
 - Generative AI
 - Automation
@@ -38,7 +37,6 @@ Building intelligent cloud solutions that combine:
 ### Cloud Cost Intelligence
 
 Designing platforms that provide:
-
 - Cost visibility
 - Forecasting
 - Optimization recommendations
@@ -47,41 +45,15 @@ Designing platforms that provide:
 ### Enterprise AI Assistants
 
 Developing AI assistants that integrate with:
-
 - Microsoft Teams
 - Jira
 - AWS Services
 - Enterprise Workflows
 
----
-
-## 📂 Architecture Principles
-
-- Security by Design
-- Automation First
-- Cost Awareness Everywhere
-- Reliability at Scale
-- Developer Experience Matters
-- AI as a Platform Capability
-- Everything as Code
 
 ---
 
-## 📈 Areas of Interest
-
-- Cloud Architecture
-- Generative AI
-- Platform Engineering
-- FinOps
-- Enterprise Automation
-- Cloud Governance
-- Kubernetes
-- Serverless Platforms
-
----
-
-## 🛠 Tech Stack
-## Architecture Domains
+## 🛠 Tech Stack & Architecture Domains
 
 ☁️ Cloud Architecture  
 🤖 AI & GenAI Solutions  
@@ -172,6 +144,31 @@ Developing AI assistants that integrate with:
 ![Elasticsearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+
+---
+
+## 📂 Architecture Principles
+
+- Security by Design
+- Automation First
+- Cost Awareness Everywhere
+- Reliability at Scale
+- Developer Experience Matters
+- AI as a Platform Capability
+- Everything as Code
+
+---
+
+## 📈 Areas of Interest
+
+- Cloud Architecture
+- Generative AI
+- Platform Engineering
+- FinOps
+- Enterprise Automation
+- Cloud Governance
+- Kubernetes
+- Serverless Platforms
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
